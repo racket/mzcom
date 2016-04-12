@@ -2,7 +2,7 @@
 
 (define collection "mzcom")
 
-(define post-install-collection "installer.rkt")
+(define install-collection "installer.rkt")
 
 (define scribblings '(("mzcom.scrbl" () (interop))))
 (define deps '("base"
