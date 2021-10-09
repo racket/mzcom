@@ -15,3 +15,6 @@
 (define pkg-desc "COM control to instantate a Racket instance")
 
 (define pkg-authors '(mflatt))
+
+(define license
+  '(Apache-2.0 OR MIT))
